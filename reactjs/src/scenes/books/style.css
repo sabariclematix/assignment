@@ -1,0 +1,54 @@
+.book_list_edit {
+  text-decoration: none;
+  color: #736f6f;
+}
+.book_list_delete {
+  margin-left: 6px;
+  cursor: pointer;
+  color: #736f6f;
+}
+.book_container {
+  margin: 0 auto;
+  width: 500px;
+  display: block;
+  margin-top: 120px;
+}
+.book_container > h1 {
+  text-align: center;
+  color: #948f8f;
+}
+.book_form > div {
+  width: 100%;
+  margin-bottom: 7px;
+}
+.book_form > div > label {
+  width: 40%;
+  display: inline-block;
+}
+.book_form > div > input {
+  width: 54%;
+  height: 33px;
+}
+.book_form > div > textarea {
+  width: 54%;
+  height: 75px;
+}
+.book_form > div > button {
+  float: right;
+  margin-right: 5%;
+  height: 43px;
+  width: 55%;
+}
+.book_form > div > div {
+  width: 94%;
+  display: inline-block;
+}
+.book_form > div > div > div {
+  float: right;
+}
+.add_book {
+  margin-bottom: 7px;
+  margin-left: 5px;
+  padding: 7px 17px;
+  margin-top: 5px;
+}

@@ -1,0 +1,22 @@
+.success {
+  width: 70%;
+  height: 33px;
+  background: #abd2b9;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 5px;
+  padding-top: 6px;
+}
+.notification_close {
+  float: right;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding-top: 4px;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 3px;
+}
